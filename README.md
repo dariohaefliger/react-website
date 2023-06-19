@@ -4,4 +4,4 @@ In this repository all files are provided for a react website project. If you wa
 
 An implementation of this project can be found here:
 
-[dariohaefliger.ch](dariohaefliger.ch)
+[dariohaefliger.ch](https://www.dariohaefliger.ch)
